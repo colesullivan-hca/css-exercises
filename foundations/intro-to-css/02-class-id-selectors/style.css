@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+p {
+    background-color: rgb(248, 141, 126);
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+#num4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
